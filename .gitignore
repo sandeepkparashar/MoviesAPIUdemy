@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.db
+/.vs/
+/MoviesAPI/obj/
+/MoviesAPI/bin/
+/MoviesAPI.Tests/bin/
+/MoviesAPI.Tests/obj/
